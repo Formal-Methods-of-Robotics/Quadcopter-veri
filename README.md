@@ -1,5 +1,5 @@
 # Quadcopter-veri
-Below are some annotations in Isabelle/HOL:
+Below are some annotations:
 ```
 \dot{x} == x'
 ```
