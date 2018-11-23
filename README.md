@@ -1,7 +1,7 @@
 # Quadcopter-veri
 Below are some annotations:
 ```
-\delta
+$\delta$
 \dot{x} == x'
 ```
 
