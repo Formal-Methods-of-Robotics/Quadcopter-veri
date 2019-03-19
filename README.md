@@ -1,3 +1,3 @@
-# Quadcopter-veri
+# Quadcopter control verification
 
 
