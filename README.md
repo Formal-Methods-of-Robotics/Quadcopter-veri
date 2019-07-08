@@ -1,3 +1,3 @@
-# Quadcopter control system verification
+# 
 
 
