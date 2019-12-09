@@ -5,7 +5,6 @@
 
 theory Drone_veri_2
 imports  Complex_Main 
-"Quaternions.Quaternions"
 (*"~~/src/HOL/Probability/Probability" *)
 "~~/src/HOL/Matrix_LP/Matrix"
 "~~/src/HOL/Library/Function_Algebras"
