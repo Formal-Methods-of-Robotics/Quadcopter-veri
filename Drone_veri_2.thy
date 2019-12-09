@@ -12,7 +12,6 @@ imports  Complex_Main
 (*"~~/src/HOL/Probability/Analysis"*)
 (*"~~/src/HOL/Analysis/Finite_Cartesian_Product"*)
 begin
-sledgehammer_params [provers = cvc4 z3 spass e remote_vampire , smt_proofs=true]
 
 (**************************************************************************************************)
 text \<open>Time definition\<close>
